@@ -3,3 +3,6 @@ print(star)
 
 ship = star+1
 print(ship)
+
+meateore = ship * 32
+print(meateore)
