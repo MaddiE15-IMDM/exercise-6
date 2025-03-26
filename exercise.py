@@ -6,3 +6,6 @@ print(ship)
 
 meateore = ship * 32
 print(meateore)
+
+milkway = star + ship + meateore
+print(milkway)
